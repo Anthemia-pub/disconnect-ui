@@ -1,7 +1,7 @@
 # disconnect-ui
 this is a unfinished and un polished version of the ui for the rust external cheat disconnect
 # Finished
-- particals
+- particles
 - Main ui ( not including any other cheat cards, only external cheat card)
 # Un-Finished
 - login page
