@@ -1,0 +1,12 @@
+C:\Users\anthe\source\repos\Fud Cryptor RAT\Fud Cryptor RAT\bin\Debug\Fud Cryptor RAT.exe.config
+C:\Users\anthe\source\repos\Fud Cryptor RAT\Fud Cryptor RAT\bin\Debug\Fud Cryptor RAT.exe
+C:\Users\anthe\source\repos\Fud Cryptor RAT\Fud Cryptor RAT\bin\Debug\Fud Cryptor RAT.pdb
+C:\Users\anthe\source\repos\Fud Cryptor RAT\Fud Cryptor RAT\obj\Debug\Fud Cryptor RAT.csproj.AssemblyReference.cache
+C:\Users\anthe\source\repos\Fud Cryptor RAT\Fud Cryptor RAT\obj\Debug\Fud_Cryptor_RAT.Properties.Resources.resources
+C:\Users\anthe\source\repos\Fud Cryptor RAT\Fud Cryptor RAT\obj\Debug\Fud Cryptor RAT.csproj.GenerateResource.cache
+C:\Users\anthe\source\repos\Fud Cryptor RAT\Fud Cryptor RAT\obj\Debug\Fud Cryptor RAT.csproj.CoreCompileInputs.cache
+C:\Users\anthe\source\repos\Fud Cryptor RAT\Fud Cryptor RAT\obj\Debug\Fud Cryptor RAT.exe
+C:\Users\anthe\source\repos\Fud Cryptor RAT\Fud Cryptor RAT\obj\Debug\Fud Cryptor RAT.pdb
+C:\Users\anthe\source\repos\Fud Cryptor RAT\Fud Cryptor RAT\obj\Debug\Fud_Cryptor_RAT.Form1.resources
+C:\Users\anthe\source\repos\Fud Cryptor RAT\Fud Cryptor RAT\bin\Debug\Guna.UI2.dll
+C:\Users\anthe\source\repos\Fud Cryptor RAT\Fud Cryptor RAT\obj\Debug\Fud Cryp.9E8DDB6D.Up2Date
